@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: #222;
+  padding: 1rem;
+  color: white;
+  margin: 0;
+  font-size: 1.25rem;
+}
+
+/* media query */
+
+@media (max-width: 500px) {
+  .App-header {
+      font-size: .99rem;
+  }
+}
+
+
+
+
