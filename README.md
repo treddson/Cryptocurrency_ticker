@@ -1,6 +1,6 @@
 # Cryptocurrency Ticker
 
-This is an application that displays 3 different cryptocurrencies and their current values. It was created using React and flexbox for the cards.
+This is an application that displays 3 different cryptocurrencies and their current values. The data was collected from the Axios API and it was built using React. Flexbox and other customer CSS was used for the styling.
 
 ### Installing
 
