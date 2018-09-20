@@ -6,9 +6,9 @@ This is an application that displays 3 different cryptocurrencies and their curr
 
 No installation necessary.
 
-## Deployment
+## Live site
 
-TBD
+* [Cryptocurrency Ticker](https://musing-euclid-d2fa23.netlify.com/)
 
 ## Built With
 
