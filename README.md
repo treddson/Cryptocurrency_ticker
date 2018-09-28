@@ -12,7 +12,7 @@ No installation necessary.
 
 ## Built With
 
-* [React](https://reactjs.org/docs/getting-started.html) - The web framework used
+* [React](https://reactjs.org/docs/getting-started.html) - The library used to be the application
 
 ## Versioning
 
